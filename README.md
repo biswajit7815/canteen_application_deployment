@@ -299,7 +299,6 @@ cd admin && npm install && npm start
 
 [![GitHub](https://img.shields.io/badge/GitHub-biswajit7815-181717?style=flat-square&logo=github)](https://github.com/biswajit7815)
 
-> Forked from [asit-sahoo-28/FinalYear-Project-My-Canteen-application](https://github.com/asit-sahoo-28/FinalYear-Project-My-Canteen-application)
 
 ---
 
